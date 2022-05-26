@@ -1,0 +1,10 @@
+prakriti_vata,prakriti_pitta,prakriti_kapha,vikriti_vata,vikriti_pitta,vikriti_kapha,prognosis
+1,0,0,1,0,0,vata
+1,0,0,0,1,0,pitta vata
+1,0,0,0,0,1,kapha vata
+0,1,0,1,0,0,vata pitta
+0,1,0,0,1,0,pitta
+0,1,0,0,0,1,kapha pitta
+0,0,1,1,0,0,vata kapha
+0,0,1,0,1,0,pitta kapha
+0,0,1,0,0,1,kapha
