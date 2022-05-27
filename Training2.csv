@@ -1,0 +1,82 @@
+prakriti_vata,prakriti_pitta,prakriti_kapha,prakriti_vatapitta,prakriti_vatakapha,prakriti_pittavata,prakriti_kaphavata,prakriti_pittakapha,prakriti_kaphapitta,vikriti_vata,vikriti_pitta,vikriti_kapha,vikriti_vatapitta,vikriti_vatakapha,vikriti_pittavata,vikriti_kaphavata,vikriti_pittakapha,vikriti_kaphapitta,prognosis
+1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,vata
+1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,pitta vata
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,kapha vata
+1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,vata pitta
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,vata kapha
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,pitta vata
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,kapha vata
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,pitta kapha with vata consideration
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,kapha pitta with vata consideration
+0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,vata pitta
+0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,pitta
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,kapha pitta
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,vata pitta
+0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,vata kapha with pitta consideration
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,pitta vata
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,kapha vata with pitta consideration
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,pitta kapha
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,kapha pitta
+0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,vata kapha
+0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,pitta kapha
+0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,kapha
+0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,vata pitta with kapha consideration
+0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,vata kapha
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,pitta vata with kapha consideration
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,kapha vata
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,pitta kapha
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,kapha pitta
+0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,vata pitta
+0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,pitta vata
+0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,kapha vata/kapha pitta
+0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,vata pitta
+0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,kapha vata/vata kapha
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,pitta vata
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,kapha vata/vata kapha
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,pitta kapha/pitta vata
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,pitta kapha/kapha pitta/pitta vata
+0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,vata kapha
+0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,pitta kapha/pitta vata
+0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,kapha vata
+0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,vata pitta/vata kapha
+0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,vata kapha
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,kapha vata
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,kapha vata
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,kapha vata/kapha pitta
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,kapha vata/kapha pitta
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,vata pitta
+0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,pitta vata
+0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,kapha pitta/kapha vata
+0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,vata pitta
+0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,vata pita/vata kapha
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,pitta vata
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,vata kapha/vata pitta
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,pitta kapha/pitta vata
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,kapha pitta/pitta kapha/pitta vata
+0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,vata kapha
+0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,pitta kapha/pitta vata
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,kapha vata
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,vata pitta/vata kapha
+0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,vata kapha
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,vata pitta/vata kapha
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,kapha vata
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,kapha pitta/kapha vata
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,kapha vata/kapha pitta
+0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,vata pita/vata kapha
+0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,pitta kapha
+0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,kapha pitta
+0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,pitta vata/pitta kapha
+0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,kapha vata/kapha pitta
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,pitta vata/pitta kapha
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,kapha vata/kapha pitta
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,pitta kapha
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,kapha pitta
+0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,vata kapha
+0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,pitta kapha/pitta vata
+0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,kapha vata
+0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,vata pitta/vata kapha
+0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,vata kapha
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,vata pitta/vata kapha
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,kapha vata
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,kapha pitta/kapha vata
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,kapha vata/kapha pitta
